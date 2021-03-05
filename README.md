@@ -1,6 +1,6 @@
 ### Nice to meet you 🤓
 
-## Contact me:
+## Connect with me:
 
 <a href="https://www.linkedin.com/in/jhilesyoung/" width="32px" target="_blank"> <img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a> <a href="https://angel.co/u/jhilesyoung-gmail-com" width="32px" target="_blank"> <img src="https://img.icons8.com/clouds/100/000000/angel-with-sword.png"/></a>
 
