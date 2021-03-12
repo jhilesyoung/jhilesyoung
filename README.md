@@ -1,5 +1,11 @@
 ## Welcome! 🤓
 
+### About me: 
+
+With a background in communications and customer success, my journey to becoming the ultimate builder and communicator has come full circle with my immersion into coding as a FullStack engineer. I have a knack for public speech and a distinguished ability to present any topic that I'm passionate in(and given time, even topics that I've only just learned).
+
+With a focus in React-Redux, Ruby on Rails, Javascript, PostgresQL, Web-sockets, HTML, and CSS. I'm excited to dive into more technologies and expand my mental library to "npm install" into my software engineering career.
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/jhilesyoung/" width="32px" target="_blank"> <img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a> <a href="https://angel.co/u/jhilesyoung-gmail-com" width="32px" target="_blank"> <img src="https://img.icons8.com/clouds/100/000000/angel-with-sword.png"/></a>
